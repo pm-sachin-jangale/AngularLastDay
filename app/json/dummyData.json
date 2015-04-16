@@ -1,0 +1,76 @@
+{
+  "xebiaData" : [ 
+  {
+    "EMAIL" : "johndoe@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI061",
+    "NAME" : "John Doe",
+    "PHONENUMBER" : "1234",
+    "PHOTO" : "0BwNLpVpJ-bbOWTdTY1V0MGVEVVk",
+    "SNO" : "1"
+  }, 
+  {
+    "EMAIL" : "maryjames@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI222",
+    "NAME" : "Mary James",
+    "PHONENUMBER" : "20485",
+    "PHOTO" : "0BwNLpVpJ-bbOTEk4Y2wzT3NBMFE",
+    "SNO" : "2"
+  }, 
+  {
+    "EMAIL" : "DomnicTorreto@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI286",
+    "NAME" : "Domnic Torreto",
+    "PHONENUMBER" : "216867",
+    "PHOTO" : "0BwNLpVpJ-bbORTUxd0tldTRjSk0",
+    "SNO" : "3"
+  }, 
+  {
+    "EMAIL" : "Lattie@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI228",
+    "NAME" : "Lattie",
+    "PHONENUMBER" : "555537",
+    "PHOTO" : "0BwNLpVpJ-bbOTEk4Y2wzT3NBMFE",
+    "SNO" : "4"
+  }, 
+  {
+    "EMAIL" : "Mia@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI353",
+    "NAME" : "Mia",
+    "PHONENUMBER" : "978076",
+    "PHOTO" : "0BwNLpVpJ-bbOTEk4Y2wzT3NBMFE",
+    "SNO" : "5"
+  }, 
+  {
+    "EMAIL" : "dwyanejohnson@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI359",
+    "NAME" : "Dwyane Johnson",
+    "PHONENUMBER" : "545341",
+    "PHOTO" : "0BwNLpVpJ-bbOTEk4Y2wzT3NBMFE",
+    "SNO" : "6"
+  }, 
+  {
+    "EMAIL" : "stweard@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI244",
+    "NAME" : "Stweard Shah",
+    "PHONENUMBER" : "93528",
+    "PHOTO" : "0BwNLpVpJ-bbOQkUwRFk5WGpxbUk",
+    "SNO" : "7"
+  }, 
+  {
+    "EMAIL" : "blckwidow@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI313",
+    "NAME" : "Black Widow",
+    "PHONENUMBER" : "689784/91112",
+    "PHOTO" : "0BwNLpVpJ-bbOTEk4Y2wzT3NBMFE",
+    "SNO" : "8"
+  }
+  ]
+}

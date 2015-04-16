@@ -16,7 +16,8 @@ angular
     'ngSanitize',
     'ngTouch',
     'chieffancypants.loadingBar',
-    'ui.router'
+    'ui.router',
+    'ui.bootstrap'
   ])
   .config(["$locationProvider", "$stateProvider", "$urlRouterProvider", "$httpProvider", "cfpLoadingBarProvider", function($locationProvider, $stateProvider, $urlRouterProvider, $httpProvider, cfpLoadingBarProvider) {
     $stateProvider

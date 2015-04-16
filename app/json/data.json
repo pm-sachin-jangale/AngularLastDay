@@ -1,0 +1,67 @@
+{
+  "xebiaData" : [ 
+  {
+    "EMAIL" : "johndoe@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI061",
+    "NAME" : "John Doe",
+    "PHONENUMBER" : "1234",
+    "PHOTO" : "johndoe",
+    "SNO" : "1"
+  }, 
+  {
+    "EMAIL" : "maryjames@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI222",
+    "NAME" : "Mary James",
+    "PHONENUMBER" : "20485",
+    "PHOTO" : "maryjames",
+    "SNO" : "2"
+  }, 
+  {
+    "EMAIL" : "DomnicTorreto@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI286",
+    "NAME" : "Domnic Torreto",
+    "PHONENUMBER" : "216867",
+    "PHOTO" : "domnictorreto",
+    "SNO" : "3"
+  }, 
+  {
+    "EMAIL" : "Lattie@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI228",
+    "NAME" : "Lattie",
+    "PHONENUMBER" : "555537",
+    "PHOTO" : "lattie",
+    "SNO" : "4"
+  }, 
+  {
+    "EMAIL" : "Mia@gmail.com",
+    "GENDER" : "FEMALE",
+    "ID" : "XI353",
+    "NAME" : "Mia",
+    "PHONENUMBER" : "978076",
+    "PHOTO" : "mia",
+    "SNO" : "5"
+  }, 
+  {
+    "EMAIL" : "dwyanejohnson@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI359",
+    "NAME" : "Dwyane Johnson",
+    "PHONENUMBER" : "545341",
+    "PHOTO" : "dwyanejohnson",
+    "SNO" : "6"
+  }, 
+  {
+    "EMAIL" : "stweard@gmail.com",
+    "GENDER" : "MALE",
+    "ID" : "XI244",
+    "NAME" : "Stweard Shah",
+    "PHONENUMBER" : "93528",
+    "PHOTO" : "jasomstateham",
+    "SNO" : "7"
+  }
+  ]
+}

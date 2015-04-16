@@ -39,6 +39,15 @@ angular
           'footer': { templateUrl: 'views/common/footer.html', controller: 'HeaderCtrl' }
         }
       })
+      .state('profileDetail', {
+        url: "/profile/:profileID",
+        data: {title: "Profile"},
+        views: { 
+          'header': { templateUrl: 'views/common/header.html', controller: 'HeaderCtrl' },
+          'main': { templateUrl: 'views/userprofile.html', controller: 'UserprofileCtrl' },
+          'footer': { templateUrl: 'views/common/footer.html', controller: 'HeaderCtrl' }
+        }
+      })
 
       $urlRouterProvider.otherwise('/home');
       cfpLoadingBarProvider.includeSpinner = false;

@@ -23,6 +23,7 @@ angular.module('angularTrainingMvpApp')
 					cfpLoadingBar.complete();
 
 					if(d){
+						
 						$location.path( "/dashboard" );	
 					}
 				},100)

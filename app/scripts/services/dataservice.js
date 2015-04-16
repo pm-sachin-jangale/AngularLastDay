@@ -10,6 +10,8 @@
 angular.module('angularTrainingMvpApp')
   .service('dataService',['$http',function ($http) {
   
+
+  	var searchedData, userData;
   	this.loginCheck = function(log,callback){
 
   		var loginObj = JSON.parse(localStorage.getItem('loginObject'));
@@ -27,24 +29,20 @@ angular.module('angularTrainingMvpApp')
 
   	this.getData = function(callback){
   		var data;
-  		$http.get('json/data.json').success(function(response) {
+  		$http.get('json/dummyData.json').success(function(response) {
 	       
 	        callback(response.xebiaData);
 	    });
   	};
 
 
-  	var searchedData, userData;
 	this.setSearchedData = function(val){
 		searchedData = val;
 	};
-	this.getSearchedData = function(val){
+	this.getSearchedData = function(){
 		return searchedData;
 	};
-	// this.setUserData = function(val){
-	// 	userData = val;
-	// };
-	this.getUserData = function(val){
+	this.getUserData = function(){
 		return userData;
 	};
 
